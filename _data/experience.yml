@@ -1,44 +1,34 @@
-- company: Upstatement
-  url: https://www.upstatement.com/
-  time: May 2018 - Present
+- company: Schweitzer Engineering Laboratories
+  url: https://selinc.com/
+  time: June 2021 - Present
   position: Engineer
 
-- company: Scout
+- company: Schweitzer Engineering Laboratories
+  url: https://selinc.com/
+  time: June 2020 - Sept 2020
+  position: Application Engineer Co-op
+
+- company: Sleek
   url: https://web.northeastern.edu/scout/
-  time: Jan - June 2018
-  position: Studio Developer
+  time: Apr 2020 - June 2020
+  position: Software Engineer Intern
 
-- company: Apple Music
-  url: https://www.apple.com/music/
-  time: July - Dec 2017
-  position: UI Engineer Co-op
+- company: UltraShock Gaming
+  url: https://www.ushockgaming.org/
+  time: Oct 2015 - Apr 2020
+  position: Founder & CEO
 
-- company: Scout
-  url: https://web.northeastern.edu/scout/
-  time: Jan - June 2017
-  position: Studio Developer
+- company: Schweitzer Engineering Laboratories
+  url: https://selinc.com/
+  time: Apr 2019 - Sept 2019
+  position: Project Engineer Co-op
 
-- company: Starry
-  url: https://starry.com/
-  time: July - Dec 2016
-  position: Software Engineer Co-op
+- company: Drexel University
+  url: https://drexel.edu/
+  time: Nov 2018 - Jan 2019
+  position: Research Assistant
 
-- company: Northeastern University
-  url: http://www.ccis.northeastern.edu/
-  time: Jan - May 2016
-  position: HCI Teaching Assistant
-
-- company: NU Women in Tech
-  url: http://nuwit.ccs.neu.edu/
-  time: Jan 2016 - May 2017
-  position: President & Web Chair
-
-- company: MullenLowe U.S.
-  url: https://us.mullenlowe.com/
-  time: July - Dec 2015
-  position: Creative Technologist Co-op
-
-- company: Northeastern University
-  url: http://www.ccis.northeastern.edu/
-  time: Mar - May 2015
-  position: HCI Research Assistant
+- company: Schweitzer Engineering Laboratories
+  url: https://selinc.com/
+  time: Apr 2018 - Sept 2018
+  position: Test Engineer Co-op
