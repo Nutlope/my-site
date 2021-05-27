@@ -10,6 +10,17 @@
     - thing: Flask
     - thing: C
 
+- name: Ali Abdaal Search Engine
+  url: https://abdaal-search.web.app/
+  code: https://github.com/Nutlope/yt-search-engine
+  description: A personalized search engine for one of my favorite YouTubers, Ali Adaal. Can search anything he said and the video(s) he said it in will come up.
+  used:
+    - thing: React
+    - thing: Python
+    - thing: Firebase
+    - thing: Postgres
+    - thing: Google Speech Recognition API
+
 - name: PMSOX Client Dashboard
   url: https://pmsox-dashboard.netlify.app/
   code: https://pmsox-dashboard.netlify.app/
@@ -22,16 +33,6 @@
     - thing: FireStore
     - thing: Authentication
 
-- name: PMSOX Landing Page
-  url: https://pmsox-site.netlify.app/
-  code: https://pmsox-site.netlify.app/
-  description: A sleek landing page built for a fintech startup.
-  used:
-    - thing: JavaScript
-    - thing: React
-    - thing: Material UI
-    - thing: CSS
-
 - name: Covid classifier
   url: https://github.com/Nutlope/covid-classifier
   code: https://github.com/Nutlope/covid-classifier
@@ -42,13 +43,12 @@
     - thing: Keras
     - thing: Sklearn
 
-- name: Ali Abdaal Search Engine
-  url: https://abdaal-search.web.app/
-  code: https://github.com/Nutlope/yt-search-engine
-  description: A personalized search engine for one of my favorite YouTubers, Ali Adaal. Can search anything he said and the video(s) he said it in will come up.
+- name: PMSOX Landing Page
+  url: https://pmsox-site.netlify.app/
+  code: https://pmsox-site.netlify.app/
+  description: A sleek landing page built for a fintech startup.
   used:
+    - thing: JavaScript
     - thing: React
-    - thing: Python
-    - thing: Firebase
-    - thing: Postgres
-    - thing: Google Speech Recognition API
+    - thing: Material UI
+    - thing: CSS
