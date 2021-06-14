@@ -1,7 +1,7 @@
-- name: Deep Vein Thrombosis Prevention Device (Patent Pending)
+- name: Deep Vein Thrombosis Prevention Device
   url: https://dvtpd.com/
   code: https://dvtpd.com/
-  description: A wearable and portable smart actuation device for DVT risk mitigation.
+  description: A wearable and portable smart actuation device for DVT risk mitigation. Patent Pending.
   used:
     - thing: Python
     - thing: Machine Learning
@@ -46,6 +46,7 @@
   url: https://ctc-visualizer.netlify.app/
   code: https://ctc-visualizer.netlify.app/
   description: A dashboard to display [cell tracking challenge](http://celltrackingchallenge.net/) results for [Dr. Cohen](https://drexel.edu/engineering/about/faculty-staff/C/cohen-andrew/)
+  used:
     - thing: JavaScript
     - thing: React
     - thing: Material UI
