@@ -2,7 +2,6 @@
   url: https://dvtpd.com/
   code: https://dvtpd.com/
   description: A wearable and portable smart actuation device for DVT risk mitigation.
-
   used:
     - thing: Python
     - thing: Machine Learning
