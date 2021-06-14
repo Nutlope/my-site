@@ -45,7 +45,7 @@
 - name: CTC Dashboard
   url: https://ctc-visualizer.netlify.app/
   code: https://ctc-visualizer.netlify.app/
-  description: A dashboard to display [cell tracking challenge](http://celltrackingchallenge.net/) results for [Dr. Cohen](https://drexel.edu/engineering/about/faculty-staff/C/cohen-andrew/)
+  description: A dashboard to display cell tracking challenge results for Dr. Andrew Cohen.
   used:
     - thing: JavaScript
     - thing: React
