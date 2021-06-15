@@ -32,7 +32,7 @@
     - thing: FireStore
     - thing: Authentication
 
-- name: Covid classifier
+- name: Covid Classifier
   url: https://github.com/Nutlope/covid-classifier
   code: https://github.com/Nutlope/covid-classifier
   description: A classifier that takes in CT images of patients and can determine, with 85% accuracy, if the subject has COVID-19.
