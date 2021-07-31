@@ -42,6 +42,16 @@
     - thing: Keras
     - thing: Sklearn
 
+- name: Qualtrics Survey Scraper
+  url: https://github.com/Nutlope/qualtrics-spss
+  code: https://github.com/Nutlope/qualtrics-spss
+  description: A script that uses the Qualtrics API to scrape survey data and format it into a CSV or SPSS file.
+  used:
+    - thing: Python
+    - thing: Qualtrics API
+    - thing: Numpy
+    - thing: SPSS
+
 - name: CTC Dashboard
   url: https://ctc-visualizer.netlify.app/
   code: https://ctc-visualizer.netlify.app/
