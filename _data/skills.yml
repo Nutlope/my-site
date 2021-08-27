@@ -1,6 +1,5 @@
 languages:
   - item: JavaScript (ES6)
-  - item: TypeScript
   - item: HTML
   - item: CSS
   - item: Python
@@ -10,18 +9,15 @@ frameworks:
   - item: Tensorflow
   - item: Keras
   - item: Node.js
-  - item: Express
 
 general:
   - item: Bash
   - item: Git & Github
   - item: MATLAB
   - item: C
-  - item: Figma
 
 cloud:
   - item: AWS Amplify
   - item: AWS Lambda
   - item: AWS DynamoDB
-  - item: FireStore DB
-  - item: Firebase
+  - item: Firebase (FireStore, Auth, Storage)
