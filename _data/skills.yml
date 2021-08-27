@@ -4,7 +4,6 @@ languages:
   - item: HTML
   - item: CSS
   - item: Python
-  - item: MATLAB
 
 frameworks:
   - item: React
@@ -12,15 +11,13 @@ frameworks:
   - item: Keras
   - item: Node.js
   - item: Express
-  - item: Flask
 
-tools:
+general:
   - item: Bash
   - item: Git & Github
+  - item: MATLAB
+  - item: C
   - item: Figma
-  - item: Chrome DevTools
-  - item: Postman
-  - item: Postgres
 
 cloud:
   - item: AWS Amplify
@@ -28,4 +25,3 @@ cloud:
   - item: AWS DynamoDB
   - item: FireStore DB
   - item: Firebase
-  - item: Netlify
